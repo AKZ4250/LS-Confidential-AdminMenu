@@ -5,6 +5,6 @@
     },
     "rpscore": {
         "version": "2.3.4",
-        "news": "Ajout de nouvelles fonctionnalités."
+        "news": "Ajout de nouvelles fonctionnalités et corrections."
     }
 }
