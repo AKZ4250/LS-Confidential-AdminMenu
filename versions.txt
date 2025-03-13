@@ -3,6 +3,10 @@
         "version": "1.0.0",
         "news": "Mis en place du script."
     },
+    "lsc_ammunation": {
+        "version": "1.0.0",
+        "news": "Mis en place du script."
+    },
     "rpscore": {
         "version": "1.0.0",
         "news": "Mis en place du script."
@@ -11,8 +15,4 @@
         "version": "1.0.0",
         "news": "Mis en place du script."
     },
-    "lsc_ammunation": {
-        "version": "1.0.0",
-        "news": "Mis en place du script."
-    }
 }
