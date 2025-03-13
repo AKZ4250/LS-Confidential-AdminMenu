@@ -1,10 +1,10 @@
 {
     "lsc_admin": {
-        "version": "1.1.0",
-        "news": "Correction de bugs et amélioration des performances."
+        "version": "1.0.0",
+        "news": "Mis en place du script."
     },
     "rpscore": {
-        "version": "2.3.4",
-        "news": "Ajout de nouvelles fonctionnalités et corrections."
+        "version": "1.0.0",
+        "news": "Mis en place du script."
     }
 }
