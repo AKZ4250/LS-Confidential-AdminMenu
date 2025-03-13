@@ -1,4 +1,10 @@
 {
-    "lsc_admin": "1.0.0",
-    "rpscore": "2.3.4",
+    "lsc_admin": {
+        "version": "1.0.0",
+        "news": "Correction de bugs et amélioration des performances."
+    },
+    "rpscore": {
+        "version": "2.3.4",
+        "news": "Ajout de nouvelles fonctionnalités."
+    }
 }
