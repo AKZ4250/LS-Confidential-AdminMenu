@@ -18,7 +18,7 @@
 "lsc_ltd": {
     "version": "1.0.0",
     "news": "Mis en place du script."
-}
+},
     "coloredmap": {
         "version": "1.0.0",
         "news": "Mis en place du script."
